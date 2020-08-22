@@ -8,4 +8,3 @@ Welcome! This repository is full of python projects I have done that helped me i
 - Guess the number game 
 - Simple Username and Password Authentication 
 - An adventure story game
-- 
