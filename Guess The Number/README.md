@@ -8,4 +8,4 @@ The only import thats needed for this is 'random', this will allow us to have th
 
 Simple if...else statements are then needed when the user inputs their guess, we can respond with one of four responses, one for if it is too high, one for too low, one if they guess correctly and the last being if they run out of guesses. 
 
-Feel free to download the code and implement other things such as a retry function, or a 'remaining guesses left' counter. 
+Feel free to download the code and implement other things to it such as a 'play again' function, or a 'remaining guesses left' counter. 
