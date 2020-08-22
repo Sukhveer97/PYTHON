@@ -1,6 +1,6 @@
 # Guess The Number 
 
-This is a very simple python project which you ask the user to guess the number the program has chosen at random, you are given 5 guesses to get the correct number.
+This is a very simple python project which you ask the user to guess the number the program has chosen at random, you are given 5 guesses to guess the correct number.
 
 ## Imports 
 The only import thats needed for this is 'random', this will allow us to have the number we need to guess be randomly generated, I called this variable the 'secretnumber', we can also specify the range we want this number to be, I decided to pick a range from 1 to 20. 
