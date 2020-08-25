@@ -14,8 +14,8 @@ Feel free to download the code to add features like having a secret message for 
 Below is the result of our first user being created and the json file containing our data. 
 ![usercreated](https://user-images.githubusercontent.com/48221355/91223304-56388f00-e718-11ea-81be-593fe939a776.gif)
 
-
-
+Below is the result of another user being created when we now have our json file. 
+![newuserjsonexist](https://user-images.githubusercontent.com/48221355/91224513-225e6900-e71a-11ea-986c-0e62d57884e7.gif)
 
 
 
