@@ -6,7 +6,8 @@ In this small python project you can get user inputs to create a username and a 
 ## Imports 
 Given the simplicity of this projects we only need one import, a 'json' import which we use to store the usernames and passwords. 
 
-![Screenshot 2020-08-25 at 8 56 14 pm](https://user-images.githubusercontent.com/48221355/91221515-a82be580-e715-11ea-8a7f-528e1b46f633.png)
+![Screenshot 2020-08-25 at 8 56 14 pm](https://user-images.githubusercontent.com/48221355/91221651-df01fb80-e715-11ea-9488-c7d1c1eb097d.png)
+
 
 
 
