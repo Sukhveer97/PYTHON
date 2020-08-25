@@ -17,5 +17,7 @@ Below is the result of our first user being created and the json file containing
 Below is the result of another user being created when we now have our json file. 
 ![newuserjsonexist](https://user-images.githubusercontent.com/48221355/91224513-225e6900-e71a-11ea-986c-0e62d57884e7.gif)
 
+Below is the result of typing the incorrect infomation also then the correct infomation for authentication. 
+![winfothencinfo](https://user-images.githubusercontent.com/48221355/91225353-656d0c00-e71b-11ea-99fd-ebafd74706ef.gif)
 
-
+ 
